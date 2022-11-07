@@ -1,4 +1,4 @@
-Azure app ->
+- [ ] Azure app ->
 Custom Domains
 Find the "Custom Domain Verification ID - and copy it.
 
