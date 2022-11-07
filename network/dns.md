@@ -16,11 +16,13 @@
 - [ ] Click on "Add custom domain"
 - [ ] enter CHANGEME.CHANGEMETO in "Custom Domain" and click on Validate.
 - [ ] Click on TLS/SSL settings
-For wildcard:
+- [ ] 
+### For wildcard:
 - [ ] Click add TLS/SSL Binding.
 - [ ] Chose the custom domain and the wildcard certificate.
 - [ ] Set "TLS/SSL Type" to SNI SSL.
-For Managed:
+- [ ] 
+### For Managed:
 - [ ] Click on "Private Key Certificates (.pfx)
 - [ ] Click on "Create App Service Managed Certificate". (if you have followed the guide correctly, there will be one that is eligible)
 - [ ] Click on "Create"
